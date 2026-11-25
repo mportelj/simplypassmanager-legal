@@ -2,11 +2,16 @@
 
 Información legal y de privacidad de SimplyPassManager.
 
-## Documentos
+## Español
 
 - [Política de privacidad](privacy-policy)
 - [Términos de servicio](terms-of-service)
 
-## Contacto
+## English
 
-Para consultas relacionadas con SimplyPassManager, utiliza la dirección de contacto indicada en la política de privacidad.
+- [Privacy Policy](privacy-policy-en)
+- [Terms of Service](terms-of-service-en)
+
+## Contacto / Contact
+
+[CORREO DE SOPORTE]
